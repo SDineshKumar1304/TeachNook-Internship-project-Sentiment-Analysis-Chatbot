@@ -1,6 +1,6 @@
-# Dineshkumars
+# Name : Dineshkumar S
 Sentiment Analysis with Support Vector Machine (SVM)
-# Overview
+# Overview (Teach Noook Pvt ltd Simple Internship Task)
 This project implements a sentiment analysis model using a Support Vector Machine (SVM) with a linear kernel. The model is trained on a dataset containing examples of positive, negative, and neutral sentiments. The sentiment analysis is performed using a TF-IDF vectorizer to convert text data into numerical features.
 
 # Requirements
